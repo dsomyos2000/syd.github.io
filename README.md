@@ -21,6 +21,6 @@ _This is Italic text_
 >>> Three
 
 |ID|Name|
-|--|----|
+|--:|----:|
 |101|Somyos|
 |102|Aruwan|
